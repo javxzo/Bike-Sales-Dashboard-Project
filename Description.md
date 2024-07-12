@@ -1,25 +1,25 @@
 # Bike Sales Analysis Project
 
-This project involves an in-depth analysis of a bike sales dataset using Microsoft Excel. The key objectives and components of the project are as follows:
+This project is in-depth analysis of a bike sales dataset using Microsoft Excel. 
 
 ### Objectives
-1. **Data Cleaning**: The initial phase focuses on cleaning the dataset to ensure accuracy and consistency. This involves handling missing values, correcting data types, and standardizing formats.
+1. **Data Cleaning**: Started by cleaning the dataset to ensure accuracy and consistency amongst different columns and data types. This involves handling missing values, correcting data types, and standardizing formats.
 
-2. **Dashboard Creation**: Utilizing Excel's powerful features, a comprehensive dashboard is created. This dashboard includes:
+2. **Dashboard Creation**: Utilizing Excel's features, I created a dashboard! This dashboard includes:
    - **Pivot Tables**: To summarize and analyze data from different perspectives.
    - **Sliders**: To interactively filter and manipulate data views.
    - **Charts and Graphs**: To visually represent data trends and insights.
 
-### Tools and Techniques
-- **Excel Functions**: Various functions are employed for data cleaning, such as `IFS`, `TRIM`, `CLEAN`, duplicate manipulation and more.
-- **Pivot Tables**: For dynamic data summarization and analysis.
+### Some Tools and Techniques!
+- **Excel Functions**:  `IFS`, `TRIM`, `CLEAN`, `SUMIFS`, `XLOOKUP`, `VLOOKUP`, duplicate manipulation and more.
+- **Pivot Tables**: For data summarization and analysis - _my favorite part_.
 - **Interactive Controls**: Sliders and slicers for user-friendly data manipulation.
-- **Visualization**: Charts and graphs to highlight key metrics and trends.
+- **Visualization**: Charts and graphs to highlight important metrics and trends.
 
-### Outcomes
-The final deliverable is an interactive and visually appealing dashboard that provides valuable insights into the bike sales data, enabling data-driven decision-making.
+### Outcome!
+The final deliverable is an interactive and visually appealing dashboard that provides insights into the bike sales data and a fully cleaned bike sales dataset.
 
-## Dataset
+## Dataset!
 The dataset used in this project includes detailed information on bike sales, such as:
 - Average Income Per Purchase
 - Customer Age Brackets
